@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Prant0roy
+- 👋 Hi, I’m Pranto Roy
 - 👀 I’m interested in Data Analysis and Data Science
 - 🌱 I’m currently learning Python data analysis library
 - 💞️ I’m looking to collaborate on data analysis
